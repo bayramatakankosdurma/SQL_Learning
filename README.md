@@ -1,6 +1,7 @@
 # SQL_Learning
 
 TR
+
   SQL dilinde sorgu yapmayı MySQL ve MsSQL üzerinden öğrendim.
 
   Ek olarak, bu sorguları manuel olarak yazmayı yine MySQL ve MsSQL üzerinden öğrendim.
