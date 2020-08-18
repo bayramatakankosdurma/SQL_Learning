@@ -2,6 +2,7 @@
 
 TR
 
+
   SQL dilinde sorgu yapmayı MySQL ve MsSQL üzerinden öğrendim.
 
   Ek olarak, bu sorguları manuel olarak yazmayı yine MySQL ve MsSQL üzerinden öğrendim.
@@ -10,7 +11,10 @@ TR
   
   C# Dili ve SQL Dili kullanılmıştır.
   
+  
+  
 EN
+
 
   I learned making querries on MySQL and MsSQL with SQL Language.
   
